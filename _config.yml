@@ -32,4 +32,4 @@ gems:
   - jekyll-feed
   - jekyll-archives
 
-theme: jekyll-theme-slate
+theme: jekyll-theme-cayman
